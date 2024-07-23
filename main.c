@@ -7,5 +7,13 @@ int main(void) {
     puts("\n");
     foo();
 
+    hello();
+    hello();
+    hello();
+    hello();
+    hello();
+    hello();
+    hello();
+    
     return 0;
 }
